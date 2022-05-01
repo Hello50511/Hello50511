@@ -1,8 +1,16 @@
-Hello50511
---
-- 🤖 | My Discord Bot [invite](https://koreanbots.dev/bots/832863172934893569)
-- 🌍 | My Discord Server [join](https://discord.gg/mM3Uh5Fcdm)
+# Hello
 
-### Stats
-### ![Hello50511's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hello50511&hide=contribs,prs)
 
+```js
+const language = ["Javascript", "HTML + CSS", "Node.js", "Python"]
+const hobby = ["Game","IT","Coding"]
+
+console.log("Hello's Hobby: " + String(hobby))
+console.log("Hello Use Languages: " + String(language))
+```
+```
+$ node hello_info.js
+
+  Hello's Hobby: Game, IT, Coding
+  Hello Use Languages: Javascript, HTML + CSS, Node.js, Python
+```
